@@ -31,3 +31,6 @@ This implementation is based on the publication [1] below in a python-gym versio
 [1]  L. Zhang, Y. Sun, A. Barth and O. Ma, "Decentralized Control of Multi-Robot System in Cooperative Object Transportation Using Deep Reinforcement Learning," in IEEE Access, vol. 8, pp. 184109-184119, 2020, doi: 10.1109/ACCESS.2020.3025287. \
 [2]  Environment by [LinZHank](https://github.com/irasatuc/gym-ae5117). \
 Current implementation is a slightly customized version of the above mentioned environment.  
+Python version - 3.8.8 \
+Tensorflow version - 2.5.0
+
